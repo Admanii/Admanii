@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Riaz
 ==================================================================================================================================
 
-Web Developer
+Software Developer
 -------------
 
 Hey there, fellow code enthusiast! Welcome to my GitHub space! I'm Ahmed Riaz, a fervent full-stack developer deeply immersed in the world of JavaScript. My journey in web development revolves around leveraging the power of Node.js for server-side applications and React.js for crafting captivating, responsive user interfaces. I strive to create robust, scalable systems that seamlessly integrate front-end and back-end technologies.
