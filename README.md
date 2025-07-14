@@ -7,7 +7,7 @@ Software Developer
 Hey there, fellow code enthusiast! Welcome to my GitHub space! I'm Ahmed Riaz, a fervent full-stack developer deeply immersed in the world of JavaScript. My journey in web development revolves around leveraging the power of Node.js for server-side applications and React.js for crafting captivating, responsive user interfaces. I strive to create robust, scalable systems that seamlessly integrate front-end and back-end technologies.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Admani](http://tinyurl.com/ahmed-riaz)
+* 🖥️  See my portfolio at [Admani](https://muhammad-ahmed-riaz.vercel.app/)
 * ✉️  You can contact me at [ahmedriaz-50@hotmail.com](mailto:ahmedriaz-50@hotmail.com)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Projects
