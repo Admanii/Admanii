@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -------------
 
-Hey there, fellow code enthusiast! Welcome to my GitHub space! I'm Ahmed Riaz, a fervent full-stack developer deeply immersed in the world of JavaScript. My journey in web development revolves around leveraging the power of Node.js for server-side applications and React.js for crafting captivating, responsive user interfaces. I strive to create robust, scalable systems that seamlessly integrate front-end and back-end technologies.
+Hey there, fellow code enthusiast! Welcome to my GitHub space! I'm Muhammad Ahmed Riaz, a passionate developer who loves building meaningful software solutions. I enjoy working across different areas of software development, creating robust and scalable applications that solve real-world problems. Whether it’s designing intuitive user experiences or developing efficient back-end systems, I’m always eager to learn and grow in this ever-evolving field.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Muhammad Ahmed Riaz](https://muhammad-ahmed-riaz.vercel.app/)
 * ✉️  You can contact me at [ahmedriaz-50@hotmail.com](mailto:ahmedriaz-50@hotmail.com)
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning AI/ML
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly Batman! Master strategist, unstoppable with prep time! 😏
 
